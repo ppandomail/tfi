@@ -1,0 +1,131 @@
+nombre;url;doc_language_ok;alt_texts_ok;input_labels_ok;empty_buttons_ok;empty_links_ok;color_contrast_ok;doc_language_fail;alt_texts_fail;input_labels_fail;empty_buttons_fail;empty_links_fail;color_contrast_fail;ratio;clase
+Instituto Universitario de Gendarmería Nacional;https://iugna.edu.ar;1;6;0;7;15;41;0;5;0;0;3;8;0.813953488372093;sin_prob_aw
+Instituto Universitario de la Policía Federal Argentina;https://www.iupfa.edu.ar;0;17;0;0;93;17;1;11;0;0;11;73;0.5695067264573991;con_prob_aw
+Instituto Universitario de Seguridad Marítima;https://iusm.edu.ar;1;4;0;1;26;47;0;3;0;0;1;4;0.9080459770114943;sin_prob_aw
+Universidad Autónoma de Entre Ríos;https://www.uader.edu.ar/;1;3;1;13;115;125;0;54;0;3;30;68;0.6246973365617433;con_prob_aw
+Universidad de Buenos Aires;https://www.uba.ar/;1;3;1;4;140;136;0;4;0;1;8;27;0.8769230769230769;sin_prob_aw
+Universidad de la Defensa Nacional;https://www.undef.edu.ar;1;5;0;2;85;82;0;19;4;6;1;24;0.7641921397379913;sin_prob_aw
+Universidad del Chubut;https://www.udc.edu.ar/;1;9;1;0;232;198;0;25;0;0;2;103;0.7723292469352014;sin_prob_aw
+Universidad Nacional Arturo Jauretche;https://www.unaj.edu.ar;1;12;4;2;113;113;0;0;2;2;10;37;0.8277027027027027;sin_prob_aw
+Universidad Nacional de Avellaneda;https://www.undav.edu.ar;0;11;0;0;90;79;1;20;0;0;15;31;0.728744939271255;con_prob_aw
+Universidad Nacional de Catamarca;https://www.unca.edu.ar/;1;3;0;10;135;181;0;20;0;2;4;18;0.8823529411764706;sin_prob_aw
+Universidad Nacional de Chilecito;https://www.undec.edu.ar;1;6;0;0;253;1029;0;11;1;2;10;205;0.8491436100131752;sin_prob_aw
+Universidad Nacional de Córdoba;https://www.unc.edu.ar;1;23;0;4;249;258;0;20;2;3;11;28;0.8931552587646077;sin_prob_aw
+Universidad Nacional de Cuyo;https://www.uncuyo.edu.ar;1;31;0;2;161;203;0;5;1;0;5;10;0.9498806682577565;sin_prob_aw
+Universidad Nacional de Entre Ríos;https://www.uner.edu.ar;1;5;8;8;86;90;0;9;2;0;1;28;0.8319327731092437;sin_prob_aw
+Universidad Nacional de Formosa;https://www.unf.edu.ar;1;12;0;4;174;162;0;8;3;0;15;3;0.9240837696335078;sin_prob_aw
+Universidad Nacional de General Sarmiento;https://www.ungs.edu.ar;1;8;0;1;779;211;0;25;2;2;24;542;0.6269592476489029;con_prob_aw
+Universidad Nacional de Hurlingham;https://unahur.edu.ar;1;10;0;3;152;141;0;18;1;0;7;32;0.8410958904109589;sin_prob_aw
+Universidad Nacional de Jujuy;https://www.unju.edu.ar;1;0;0;0;176;163;0;62;0;0;35;48;0.7010309278350515;con_prob_aw
+Universidad Nacional del Alto Uruguay;https://www.unau.edu.ar;1;12;0;1;120;135;0;1;0;0;0;5;0.9781818181818182;sin_prob_aw
+Universidad Nacional de La Matanza;https://www.unlam.edu.ar;1;50;0;1;213;121;0;5;1;0;0;79;0.8195329087048833;sin_prob_aw
+Universidad Nacional de Lanús;https://www.unla.edu.ar;1;49;0;6;330;202;0;6;4;0;1;266;0.6797687861271676;con_prob_aw
+Universidad Nacional de La Pampa;https://www.unlpam.edu.ar;1;5;0;2;230;251;0;1;3;2;18;29;0.9022140221402214;sin_prob_aw
+Universidad Nacional de la Patagonia Austral;https://www.unpa.edu.ar/;1;37;6;3;165;154;0;2;0;0;11;51;0.8511627906976744;sin_prob_aw
+Universidad Nacional de la Patagonia San Juan Bosco;https://www.unp.edu.ar;1;28;0;0;242;175;0;16;1;0;14;103;0.7689655172413793;sin_prob_aw
+Universidad Nacional de La Plata;https://www.unlp.edu.ar/;1;40;2;5;299;238;0;30;0;20;3;22;0.8863636363636364;sin_prob_aw
+Universidad Nacional de La Rioja;https://www.unlar.edu.ar;1;29;0;9;237;215;0;0;0;0;3;3;0.9879275653923542;sin_prob_aw
+Universidad Nacional de las Artes;https://www.una.edu.ar/;1;48;0;0;630;628;0;1;0;0;35;22;0.9575091575091575;sin_prob_aw
+Universidad Nacional del Centro de la Provincia de Buenos Aires;https://www.unicen.edu.ar;1;1;2;0;97;106;0;39;5;0;13;15;0.7419354838709677;con_prob_aw
+Universidad Nacional del Chaco Austral;https://www.uncaus.edu.ar/;1;17;0;0;209;108;0;1;0;0;6;100;0.7579185520361991;sin_prob_aw
+Universidad Nacional del Comahue;https://www.uncoma.edu.ar;1;0;4;4;376;461;0;28;0;0;0;29;0.9368770764119602;sin_prob_aw
+Universidad Nacional del Delta;https://undelta.edu.ar/;1;3;0;0;55;40;0;9;0;0;0;18;0.7857142857142857;sin_prob_aw
+Universidad Nacional del Litoral;https://www.unl.edu.ar;1;0;0;0;116;38;0;18;1;1;16;101;0.5308219178082192;con_prob_aw
+Universidad Nacional del Nordeste;https://www.unne.edu.ar/;1;5;1;0;215;173;0;23;0;0;3;24;0.8876404494382022;sin_prob_aw
+Universidad Nacional del Noroeste de la Provincia de Buenos Aires;https://www.unnoba.edu.ar;1;22;4;11;188;71;0;12;1;0;12;155;0.6226415094339622;con_prob_aw
+Universidad Nacional del Oeste;https://www.uno.edu.ar;1;18;1;0;274;177;0;0;0;1;1;160;0.7440758293838863;con_prob_aw
+Universidad Nacional de Lomas de Zamora;https://www.agrarias.unlz.edu.ar;1;4;0;1;60;67;0;11;1;0;8;40;0.689119170984456;con_prob_aw
+Universidad Nacional de los Comechingones;https://www.unlc.edu.ar/;1;3;0;4;81;91;0;26;2;0;24;27;0.694980694980695;con_prob_aw
+Universidad Nacional del Sur;https://www.uns.edu.ar;1;45;0;3;84;115;0;0;0;1;6;20;0.9018181818181819;sin_prob_aw
+Universidad Nacional de Luján;https://www.unlu.edu.ar/;1;69;2;0;188;141;0;1;2;0;1;1;0.9876847290640394;sin_prob_aw
+Universidad Nacional de Mar del Plata;https://www.mdp.edu.ar/;1;57;0;0;347;489;0;5;3;1;12;33;0.9430379746835443;sin_prob_aw
+Universidad Nacional de Misiones;https://www.unam.edu.ar/;1;19;2;0;241;131;0;21;0;0;26;191;0.6234177215189873;con_prob_aw
+Universidad Nacional de Moreno;https://www.unm.edu.ar;1;0;1;4;89;127;0;10;0;0;17;31;0.7928571428571428;sin_prob_aw
+Universidad Nacional de Pilar;https://unpilar.edu.ar/;1;9;5;1;120;316;0;4;0;0;1;36;0.9168356997971603;sin_prob_aw
+Universidad Nacional de Rafaela;https://www.unraf.edu.ar;1;58;0;1;102;99;0;12;1;0;39;0;0.8338658146964856;sin_prob_aw
+Universidad Nacional de Río Cuarto;https://www.unrc.edu.ar;1;5;0;1;111;123;0;3;0;0;10;10;0.9128787878787878;sin_prob_aw
+Universidad Nacional de Río Negro;https://www.unrn.edu.ar/home;1;0;0;6;417;256;0;16;2;0;4;305;0.6752730883813307;con_prob_aw
+Universidad Nacional de Río Tercero;https://unrt.edu.ar/;1;11;4;3;53;51;0;1;0;0;0;18;0.8661971830985915;sin_prob_aw
+Universidad Nacional de Rosario;https://www.unr.edu.ar;1;20;2;7;316;249;0;25;0;2;26;239;0.6708004509582863;con_prob_aw
+Universidad Nacional de Salta;https://www.unsa.edu.ar/;1;4;1;18;162;187;0;8;0;0;6;14;0.9301745635910225;sin_prob_aw
+Universidad Nacional de San Antonio de Areco;https://www.unsada.edu.ar;1;10;1;2;146;151;0;0;0;0;0;52;0.8567493112947658;sin_prob_aw
+Universidad Nacional de San Juan;https://www.unsj.edu.ar/;1;16;0;12;117;134;0;21;2;0;16;14;0.8408408408408409;sin_prob_aw
+Universidad Nacional de San Luis;https://www.unsl.edu.ar;1;67;1;2;168;175;0;0;0;0;0;6;0.9857142857142858;sin_prob_aw
+Universidad Nacional de San Martín;https://www.unsam.edu.ar;1;24;13;19;210;462;0;17;0;0;16;15;0.9382239382239382;sin_prob_aw
+Universidad Nacional de Santiago del Estero;https://www.unse.edu.ar;1;15;87;6;186;280;0;7;1;1;0;13;0.9631490787269682;sin_prob_aw
+Universidad Nacional de Tucumán;https://www.unt.edu.ar;1;42;0;0;82;44;0;2;0;0;12;18;0.8407960199004975;sin_prob_aw
+Universidad Nacional de Villa María;https://www.unvm.edu.ar;1;4;4;1;230;216;0;40;0;1;2;9;0.8976377952755905;sin_prob_aw
+Universidad Nacional de Villa Mercedes;https://www.unvime.edu.ar;1;20;0;9;178;188;0;10;0;13;23;66;0.7795275590551181;sin_prob_aw
+Universidad Nacional Guillermo Brown;https://www.unab.edu.ar;1;2;0;0;111;118;0;8;1;0;33;27;0.770764119601329;sin_prob_aw
+Universidad Nacional José C. Paz;https://www.unpaz.edu.ar;1;28;1;13;505;349;0;0;0;0;0;227;0.7980427046263345;sin_prob_aw
+Universidad Nacional Madres de Plaza de Mayo;https://unma.net.ar/;1;14;0;13;203;240;0;0;0;0;5;6;0.9771784232365145;sin_prob_aw
+Universidad Nacional Raúl Scalabrini Ortiz;https://unso.edu.ar/;1;0;0;0;0;0;0;0;0;0;0;0;1.0;sin_prob_aw
+Universidad Pedagógica Nacional;https://unipe.edu.ar;1;8;0;6;195;209;0;10;1;0;13;9;0.9269911504424779;sin_prob_aw
+Universidad Provincial de Córdoba;https://www.upc.edu.ar;1;8;6;0;183;235;0;4;0;0;6;17;0.941304347826087;sin_prob_aw
+Universidad Provincial de Ezeiza;https://www.upe.edu.ar;1;5;0;3;148;161;0;48;1;0;45;17;0.7412587412587412;con_prob_aw
+Universidad Provincial de Laguna Blanca;https://uplab.edu.ar/;1;1;0;0;56;58;0;9;0;0;8;6;0.8345323741007195;sin_prob_aw
+Universidad Provincial del Sudoeste;https://www.upso.edu.ar;0;0;0;0;0;0;1;0;0;0;0;0;0.0;con_prob_aw
+Universidad Tecnológica Nacional;https://www.utn.edu.ar;1;12;0;0;115;107;0;68;0;0;9;36;0.6752873563218391;con_prob_aw
+Escuela Universitaria de Teología;https://eut.edu.ar/;1;11;3;11;123;225;0;21;1;6;6;20;0.8738317757009346;sin_prob_aw
+Instituto Universitario CEMIC;https://www.iuc.edu.ar;1;0;0;2;5;122;0;0;1;1;0;0;0.9848484848484849;sin_prob_aw
+Instituto Universitario CIAS;https://cias.ar/;1;42;0;2;71;47;0;2;0;2;0;14;0.9005524861878453;sin_prob_aw
+Instituto Universitario de Ciencias Biomédicas de Córdoba;https://www.iucbc.edu.ar;1;26;2;3;133;137;0;0;7;1;3;41;0.8531073446327684;sin_prob_aw
+Instituto Universitario de Ciencias de la Salud de la Fundación Barceló;https://www.barcelo.edu.ar;1;18;0;7;362;367;0;23;3;5;0;5;0.95448798988622;sin_prob_aw
+Instituto Universitario de Ciencias Empresariales;https://i-uce.edu.ar/;1;1;0;1;26;65;0;5;4;1;4;28;0.6911764705882353;con_prob_aw
+Instituto Universitario del Agua y el Saneamiento;https://www.iuas.edu.ar/;1;0;0;0;87;70;0;7;0;0;0;75;0.6583333333333333;con_prob_aw
+Instituto Universitario de Salud Mental de la Asociación Psicoanalítica de Buenos Aires;https://www.iusam.edu.ar/;1;0;0;3;204;259;0;10;1;0;6;20;0.9265873015873016;sin_prob_aw
+Instituto Universitario de Seguridad;https://iuse.edu.ar/;1;1;0;0;78;108;0;9;0;0;6;41;0.7704918032786885;sin_prob_aw
+Instituto Universitario Escuela Argentina de Negocios;https://www.uean.edu.ar/;1;3;0;2;170;243;0;7;10;0;0;50;0.8621399176954733;sin_prob_aw
+Instituto Universitario Escuela de Medicina del Hospital Italiano;https://www.hospitalitaliano.org.ar/educacion/index.php;0;0;0;0;1;1;1;0;0;0;3;0;0.3333333333333333;con_prob_aw
+Instituto Universitario Escuela Superior de Economía y Administración de Empresas;https://www.eseade.edu.ar;1;55;0;10;164;244;0;12;0;0;18;23;0.8994307400379506;sin_prob_aw
+Instituto Universitario Italiano de Rosario;https://www.iunir.edu.ar;1;0;0;0;0;0;0;0;0;0;0;0;1.0;sin_prob_aw
+Instituto Universitario para el Desarrollo Productivo y Tecnológico Empresarial de la Argentina;https://www.iudpt.edu.ar;1;54;5;4;155;270;0;30;4;1;17;45;0.8344709897610921;sin_prob_aw
+Instituto Universitario River Plate;https://iuriverplate.edu.ar/;1;18;0;1;104;157;0;0;1;10;8;52;0.7982954545454546;sin_prob_aw
+Instituto Universitario YMCA;https://iuymca.edu.ar/;1;38;0;0;72;70;0;9;0;0;6;12;0.8701923076923077;sin_prob_aw
+Pontificia Universidad Católica Argentina Santa María de los Buenos Aires;https://www.uca.edu.ar;1;8;0;0;333;336;0;125;3;8;29;62;0.7491712707182321;con_prob_aw
+Universidad Abierta Interamericana;https://www.uai.edu.ar;1;134;0;27;594;770;0;0;10;0;11;154;0.897119341563786;sin_prob_aw
+Universidad Adventista del Plata;https://uap.edu.ar/;1;9;0;2;98;125;0;7;4;1;29;20;0.793918918918919;sin_prob_aw
+Universidad Argentina de la Empresa;https://www.uade.edu.ar;0;34;7;1;181;346;1;2;6;15;0;56;0.8767334360554699;sin_prob_aw
+Universidad Argentina John F. Kennedy;https://www.kennedy.edu.ar/;1;3;0;6;144;399;0;20;13;0;11;125;0.7659279778393352;sin_prob_aw
+Universidad Atlántida Argentina;https://www.atlantida.edu.ar/;1;13;0;0;159;177;0;6;1;0;2;42;0.8728179551122195;sin_prob_aw
+Universidad Austral;https://www.austral.edu.ar;1;11;1;1;309;449;0;38;1;0;0;32;0.9157769869513642;sin_prob_aw
+Universidad CAECE;https://www.ucaece.edu.ar;1;1;0;2;151;106;0;16;0;0;7;138;0.6184834123222749;con_prob_aw
+Universidad Católica de Córdoba;https://www.ucc.edu.ar;1;56;3;8;148;565;0;2;4;5;10;99;0.8668146503884573;sin_prob_aw
+Universidad Católica de Cuyo;https://www.uccuyo.edu.ar;1;2;0;4;25;154;0;53;2;2;1;37;0.6619217081850534;con_prob_aw
+Universidad Católica de las Misiones;https://www.ucami.edu.ar;0;12;0;0;135;48;1;36;2;0;4;83;0.6074766355140186;con_prob_aw
+Universidad Católica de Salta;https://www.ucasal.edu.ar/;1;0;1;2;235;427;0;17;5;0;6;27;0.9237170596393898;sin_prob_aw
+Universidad Católica de Santa Fe;https://www.ucsf.edu.ar/;1;1;1;2;94;67;0;16;15;3;25;316;0.3068391866913124;con_prob_aw
+Universidad Champagnat;https://www.uch.edu.ar;1;0;0;1;192;161;0;19;0;0;5;113;0.7215447154471545;con_prob_aw
+Universidad de Belgrano;https://www.ub.edu.ar/;1;14;0;11;162;370;0;2;0;0;3;51;0.9087947882736156;sin_prob_aw
+Universidad de Ciencias Empresariales y Sociales;https://www.uces.edu.ar;1;0;0;7;120;413;0;26;4;5;12;2;0.9169491525423729;sin_prob_aw
+Universidad de Congreso;https://www.ucongreso.edu.ar/;1;2;2;6;188;151;0;26;2;1;13;71;0.755939524838013;sin_prob_aw
+Universidad de Flores;https://www.uflo.edu.ar;1;3;1;7;70;170;0;9;1;2;0;3;0.9438202247191011;sin_prob_aw
+Universidad del Aconcagua;https://www.uda.edu.ar;1;28;0;3;237;285;0;2;0;0;5;34;0.9310924369747899;sin_prob_aw
+Universidad de la Cuenca del Plata;https://www.ucp.edu.ar;1;5;0;0;77;106;0;42;0;1;6;34;0.6948529411764706;con_prob_aw
+Universidad de la Fraternidad de Agrupaciones Santo Tomás de Aquino;https://www.ufasta.edu.ar/;1;4;0;1;296;227;0;4;1;0;8;119;0.800302571860817;sin_prob_aw
+Universidad de la Integración Sudamericana;https://unisud.edu.ar/;1;2;0;1;48;25;0;10;0;3;19;51;0.48125;con_prob_aw
+Universidad de la Marina Mercante;https://www.udemm.edu.ar;1;21;0;9;112;117;0;7;5;0;5;72;0.7449856733524355;con_prob_aw
+Universidad del CEMA;https://www.ucema.edu.ar/;1;18;1;1;115;143;0;2;0;3;1;31;0.8829113924050633;sin_prob_aw
+Universidad del Centro Educativo Latinoamericano;https://www.ucel.edu.ar;1;22;0;2;263;196;0;8;1;7;1;102;0.802653399668325;sin_prob_aw
+Universidad del Cine;https://www.ucine.edu.ar;1;5;0;0;125;99;0;34;0;0;35;82;0.6036745406824147;con_prob_aw
+Universidad del Este;https://www.ude.edu.ar;1;4;0;2;99;107;0;14;0;0;9;42;0.7661870503597122;sin_prob_aw
+Universidad del Museo Social Argentino;https://www.umsa.edu.ar;1;25;4;10;113;202;0;9;1;7;17;27;0.8533653846153846;sin_prob_aw
+Universidad del Norte Santo Tomás de Aquino;https://www.unsta.edu.ar/;1;4;3;1;252;344;0;7;1;0;6;49;0.905688622754491;sin_prob_aw
+Universidad del Salvador;https://www.usal.edu.ar;1;2;1;2;197;286;0;90;2;13;8;25;0.7799043062200957;sin_prob_aw
+Universidad del Sur de Buenos Aires;https://usba.edu.ar/;1;0;0;0;0;0;0;0;0;0;0;0;1.0;sin_prob_aw
+Universidad de Mendoza;https://www.um.edu.ar;1;12;0;20;251;327;0;17;1;0;6;44;0.8998527245949927;sin_prob_aw
+Universidad de Morón;https://www.unimoron.edu.ar;1;35;0;7;103;122;0;0;0;0;2;35;0.8786885245901639;sin_prob_aw
+Universidad de Palermo;https://www.palermo.edu;1;95;0;0;254;796;0;0;7;1;2;46;0.9534109816971714;sin_prob_aw
+Universidad de San Isidro Dr. Plácido Marín;https://usi.edu.ar/;1;0;0;0;174;195;0;33;1;5;0;17;0.8685446009389671;sin_prob_aw
+Universidad de San Pablo - T;https://www.uspt.edu.ar;1;30;1;1;130;167;0;44;0;0;7;23;0.8168316831683168;sin_prob_aw
+Universidad Evangélica;https://uevangelica.edu.ar/;1;5;0;4;110;185;0;12;0;0;3;21;0.8944281524926686;sin_prob_aw
+Universidad Gastón Dachary;https://www.ugd.edu.ar/;1;52;1;4;243;204;0;13;0;0;8;13;0.9369202226345084;sin_prob_aw
+Universidad ISALUD;https://www.isalud.edu.ar;1;0;0;0;0;0;0;1;0;0;0;1;0.3333333333333333;con_prob_aw
+Universidad Juan Agustín Maza;https://www.umaza.edu.ar;1;0;0;3;119;140;0;17;1;0;13;10;0.8651315789473685;sin_prob_aw
+Universidad Maimónides;https://www.maimonides.edu;1;52;1;9;270;912;0;8;14;1;10;517;0.6935933147632312;con_prob_aw
+Universidad Metropolitana para la Educación y el Trabajo;https://www.umet.edu.ar;1;4;0;1;105;138;0;24;2;0;26;33;0.7455089820359282;con_prob_aw
+Universidad Notarial Argentina;https://www.universidadnotarial.edu.ar/una/;1;4;6;2;78;84;0;7;2;0;8;85;0.631768953068592;con_prob_aw
+Universidad Patagonia Argentina;https://upatagonia.edu.ar;1;19;1;0;42;71;0;5;0;0;19;55;0.6291079812206573;con_prob_aw
+Universidad Salesiana Argentina;https://www.unisal.edu.ar;1;0;0;0;0;0;0;0;0;0;0;0;1.0;sin_prob_aw
+Universidad Torcuato Di Tella;https://www.utdt.edu;0;1;0;1;164;202;1;25;1;0;14;29;0.8401826484018264;sin_prob_aw
+Facultad Latinoamericana de Ciencias Sociales;https://www.flacso.org.ar/;0;1;0;0;113;99;1;15;1;1;3;85;0.6677115987460815;con_prob_aw
