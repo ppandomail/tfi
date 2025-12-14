@@ -44,6 +44,8 @@ Para quien ayuda a hacer del mundo un lugar un poco mejor.
 
 ## Capítulo 2: Accesibilidad Web
 
+[Ver](doc/2_accesibilidad_web.md)
+
 ## Capítulo 3: Ciencia de Datos
 
 [Ver](doc/3_ciencia_datos.md)
