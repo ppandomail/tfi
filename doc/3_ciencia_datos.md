@@ -3,6 +3,7 @@
 ## 3.1 Introducción
 
 * La **ciencia de datos** se ha consolidado como un campo interdisciplinario que combina estadística, informática y conocimiento del dominio para extraer valor de grandes volúmenes de información.
+* Los avances tecnológicos hacen que las **capacidades para generar y almacenar datos** se incrementen día a día.
 * Su relevancia radica en la capacidad de transformar datos en conocimiento accionable, apoyando la toma de decisiones en ámbitos tan diversos como la salud, la educación, la economía y la accesibilidad digital (Provost & Fawcett, 2013).
 
 ## 3.2 Proceso de Ciencia de Datos
@@ -275,11 +276,11 @@ El ciclo de vida de un proyecto de ciencia de datos se organiza en etapas iterat
 
 * En el aprendizaje automático, muchos métodos utilizan la clasificación binaria. Los más comunes son:
   * Regresión logística
-  * SVM - Máquinas de vectores de soporte
+  * SVM - Máquinas de vectores de soporte: muy eficaz para clasifciación binaria o multiclase, especialmente es espacios de alta dimensión.
   * Random Forest
   * KNN - Vecino más cercano
   * Naive Bayes
-  * Árboles de decisión
+  * Árboles de decisión: fáciles de interpretar y potentes para clasificación y regresión, buenos cuando se necesitan decisiones explicables
 
 ### 3.2.5 Evaluación
 
