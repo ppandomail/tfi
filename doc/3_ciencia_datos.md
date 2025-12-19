@@ -306,7 +306,7 @@ $$Accuracy = \dfrac{VP}{VP + FP}$$
 * **Alta precisión** significa pocos falsos positivos.
 * Se utiliza cuando se quiere minimizar los falsos positivos, como en la detección de spam (no se quiere marcar correos electrónicos que no son spam como spam).
 
-**Recall (Recuperación)**:
+**Recall (Recuperación, Sensitividad)**:
 
 * Respuestas de recuperación: Cuando el resultado real es positivo, ¿con qué frecuencia el modelo lo predice correctamente?
 
